@@ -35,7 +35,7 @@ We welcome contributions from the community to improve and enhance the website. 
 
 ## Contact Us
 
-If you have any questions or inquiries, please don't hesitate to contact us at [contact@example.com](mailto:contact@example.com). We're here to help!
+If you have any questions or inquiries, please don't hesitate to contact us at [contact@example.com](mailto:ashu6530@gmail.com). We're here to help!
 
 Happy job hunting!
 
